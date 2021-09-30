@@ -3,6 +3,17 @@
     "displayName": "wally candy dark theme",
     "description": "wally candy dark theme!",
     "version": "0.0.1",
+    "publisher": "upsidedownsloth",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/upsidedownsloth/wally-candy-dark-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "candy theme",
+        "wally theme"
+    ],
     "engines": {
         "vscode": "^1.60.0"
     },
