@@ -1,0 +1,21 @@
+{
+    "name": "wally-dark-theme",
+    "displayName": "wally dark theme",
+    "description": "wally own dark theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "wally's own dark theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/wally's own dark theme-color-theme.json"
+            }
+        ]
+    }
+}
