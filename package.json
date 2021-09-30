@@ -1,7 +1,7 @@
 {
-    "name": "wally-dark-theme",
-    "displayName": "wally dark theme",
-    "description": "wally own dark theme!",
+    "name": "wally-candy-dark-theme",
+    "displayName": "wally candy dark theme",
+    "description": "wally candy dark theme!",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.60.0"
