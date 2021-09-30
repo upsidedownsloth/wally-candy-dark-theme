@@ -1,2 +1,9 @@
 # Wally candy dark theme
-Thii sis a customised VS Code theme 
+a customised VS Code theme 
+
+## Tutorial
+https://www.youtube.com/watch?v=pGzssFNtWXw
+
+### Color inspirations
+https://coolors.co/
+https://hexcolor.co/image-to-colors# 
