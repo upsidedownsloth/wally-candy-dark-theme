@@ -10,4 +10,4 @@ https://coolors.co/
 https://hexcolor.co/image-to-colors# 
 
 ### Screenshot
-![theme screenshot](/themeshot.JPG)
+![themeshot](https://user-images.githubusercontent.com/70351280/135539000-87187075-6151-4b8e-bae5-5434351ec17f.JPG)
